@@ -15,7 +15,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=vishwaksen21&theme=radical&show_icons=true&count_private=true&cache_seconds=1800)
 
-![](https://streak-stats.demolab.com?user=vishwaksen21&theme=dark)
+![](https://streak-stats.demolab.com?user=vishwaksen21&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaksen21&layout=compact&theme=radical)
 
