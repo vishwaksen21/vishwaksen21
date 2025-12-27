@@ -4,13 +4,13 @@
 - Currently AI Intern at Infosys  
 - Technical Lead at CCA, CMRIT  
 - Interested in building data-driven and AI-powered solutions  
-- Portfolio: https://vishwaksen.vercel.app/
+- Portfolio: https://vishwaksen.vercel.app/  
 
 ## 🌐 Socials
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=vercel&logoColor=white)](https://vishwaksen.vercel.app/)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishwak_sen21) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwaksen21) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chilukurvishwak21@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=vercel&logoColor=white)](https://vishwaksen.vercel.app/)
 
 # 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
@@ -40,9 +40,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
 # 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishwaksen21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=vishwaksen21&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaksen21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishwaksen21&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vishwaksen21&theme=tokyonight&hide_border=false)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaksen21&layout=compact&theme=tokyonight&hide_border=false)
 
 ![Visitor Count](https://visitcount.itsvg.in/api?id=vishwaksen21&label=Profile%20Views&color=0&icon=0&pretty=false)
 
