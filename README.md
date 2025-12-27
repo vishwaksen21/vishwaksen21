@@ -14,5 +14,3 @@ I'm a CS & data Science Student as CMR Institute of Technology<br>I have complet
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vishwaksen21&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
