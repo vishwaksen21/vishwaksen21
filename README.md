@@ -15,15 +15,13 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=vishwaksen21&theme=radical&show_icons=true&count_private=true&cache_seconds=1800)
 
-![](https://streak-stats.demolab.com?user=vishwaksen21&theme=radical)
+![](https://streak-stats.demolab.com?user=vishwaksen21&theme=dark)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaksen21&layout=compact&theme=radical)
 
 ## 📊 GitHub Activity
 
 ![Contribution Graph](https://ghchart.rshah.org/vishwaksen21)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vishwaksen21&theme=dark&cache_seconds=21600)
 
 
 ---
