@@ -25,4 +25,4 @@
 
 
 ---
-![Visitor Count](https://visitor-badge.laobi.io/badge?page_id=YOUR_USERNAME.YOUR_REPO)
+![Profile Views](https://komarev.com/ghpvc/?username=vishwaksen21&color=blue)
