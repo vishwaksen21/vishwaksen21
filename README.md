@@ -25,4 +25,4 @@
 
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=vishwaksen21&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=vishwaksen21&base=1000)
