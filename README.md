@@ -4,7 +4,7 @@
 - Web dev Intern @ Sohum Trust 
 - Technical Lead at CCA, CMRIT  
 - Interested in building data-driven and AI-powered solutions
-- Portfolio: https://vishwaksen.vercel.app 
+- Portfolio: https://vishwaksen.vercel.app/
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=vercel&logoColor=white)](https://vishwaksen.vercel.app/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishwak_sen21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwaksen21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chilukurvishwak21@gmail.com) 
