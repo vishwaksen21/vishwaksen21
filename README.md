@@ -2,7 +2,7 @@
 - CS & Data Science student at CMR Institute of Technology (CGPA 9.13)  
 - SDE Intern experience at ISRO and QUABYT  
 - Web dev Intern @ Sohum Trust 
-- Technical Lead at CCA, CMRIT  
+- Technical Lead at CCA, CMRIT 2025
 - Interested in building data-driven and AI-powered solutions
 - Portfolio: https://vishwaksen.vercel.app/
 
