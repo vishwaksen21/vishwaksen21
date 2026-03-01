@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Vishwak+Sen+👋;Computer+Science+%26+Data+Science;Building+AI-Powered+Solutions;Technical+Lead+%40+CCA,+CMRIT)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Vishwak+Sen;Computer+Science+%26+Data+Science;Building+AI-Powered+Solutions;Technical+Lead+%40+CCA,+CMRIT" alt="Typing SVG" />
 
   <p align="center">
     <strong>Bridging the gap between data architecture and scalable web solutions.</strong>
@@ -50,20 +50,14 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/vishwaksen21">
-    <img src="https://github-readme-stats.vercel.app/api?username=vishwaksen21&show_icons=true&count_private=true&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=A6A6A6&bg_color=0D1117" height="192px" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/vishwaksen21">
-    <img src="https://streak-stats.demolab.com?user=vishwaksen21&theme=dark&hide_border=true&title_color=38B2AC&text_color=A6A6A6&icon_color=38B2AC&sideNums=A6A6A6&sideLabels=A6A6A6&ring=38B2AC&fire=38B2AC&currStreakNum=A6A6A6&background=0D1117" height="192px" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishwaksen21&show_icons=true&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=A6A6A6&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=vishwaksen21&theme=dark&hide_border=true&title_color=38B2AC&text_color=A6A6A6&icon_color=38B2AC&sideNums=A6A6A6&sideLabels=A6A6A6&ring=38B2AC&fire=38B2AC&currStreakNum=A6A6A6&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/vishwaksen21">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaksen21&layout=compact&hide_border=true&title_color=38B2AC&text_color=A6A6A6&bg_color=0D1117" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaksen21&layout=compact&hide_border=true&title_color=38B2AC&text_color=A6A6A6&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <br/>
