@@ -1,28 +1,62 @@
-# 💫 About Me
-- CS & Data Science student at CMR Institute of Technology (CGPA 9.06)  
-- SDE Intern experience at ISRO and QUABYT  
-- Web dev Intern @ Sohum Trust 
-- Technical Lead at CCA, CMRIT
-- Interested in building data-driven and AI-powered solutions
-- Portfolio: https://vishwaksen.vercel.app/
+<div align="center">
+  
+  # Hi there, I'm Vishwak Sen! 👋
+  ### CS & Data Science Student | SDE | AI Enthusiast
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=vishwaksen21&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vishwaksen21)
 
-## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=vercel&logoColor=white)](https://vishwaksen.vercel.app/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishwak_sen21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwaksen21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chilukurvishwak21@gmail.com) 
+  Building data-driven and AI-powered solutions. <br/>
+  Technical Lead at CCA, CMRIT.
+  
+  <br/>
 
+  <a href="https://vishwaksen.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/vishwaksen21"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/vishwak_sen21"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:chilukurvishwak21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=plastic&logo=scala&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+</div>
 
+<br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vishwaksen21&theme=radical&show_icons=true&count_private=true&cache_seconds=1800)
-![GitHub Streak](https://streak-stats.demolab.com?user=vishwaksen21&theme=dark&hide_border=true&cache_seconds=0)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaksen21&layout=compact&theme=radical)
+## 💫 About Me
 
+* 🎓 **Academics:** CS & Data Science student at CMR Institute of Technology (CGPA: **9.06**)
+* 💼 **Experience:** SDE Intern at **ISRO** and **QUABYT** | Web Dev Intern @ **Sohum Trust**
+* 🚀 **Leadership:** Technical Lead at CCA, CMRIT
+* 🧠 **Interests:** Specializing in data-driven architecture and AI-powered web solutions.
 
-# 📈 GitHub Activity
-![Contribution Graph](https://ghchart.rshah.org/vishwaksen21)
+<br/>
 
+## 💻 Tech Stack
 
----
-![Profile Views](https://komarev.com/ghpvc/?username=vishwaksen21&base=900)
+**Languages** ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
+**Frontend & Backend** ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+
+**Database & Cloud** ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+
+**Tools** ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishwaksen21&theme=tokyonight&show_icons=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=vishwaksen21&theme=tokyonight&hide_border=true&cache_seconds=0" alt="GitHub Streak" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaksen21&layout=compact&theme=tokyonight" alt="Top Languages" width="50%" />
+</div>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/8A2BE2/vishwaksen21" alt="Contribution Graph" />
+</div>
