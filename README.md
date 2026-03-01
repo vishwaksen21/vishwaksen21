@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Vishwak+Sen;Computer+Science+%26+Data+Science;Building+AI-Powered+Solutions;Technical+Lead+%40+CCA,+CMRIT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Vishwak+Sen;Computer+Science+%26+Data+Science;Building+AI-Powered+Solutions;Technical+Lead+%40+CCA,+CMRIT" alt="Typing SVG" />
 
   <p align="center">
     <strong>Bridging the gap between data architecture and scalable web solutions.</strong>
@@ -47,35 +47,27 @@
 
 <br/>
 
-## 📈 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwaksen21&show_icons=true&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=A6A6A6&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=vishwaksen21&theme=dark&hide_border=true&title_color=38B2AC&text_color=A6A6A6&icon_color=38B2AC&sideNums=A6A6A6&sideLabels=A6A6A6&ring=38B2AC&fire=38B2AC&currStreakNum=A6A6A6&background=0D1117" alt="GitHub Streak" />
-</div>
+
+## 📊 GitHub Analytics
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaksen21&layout=compact&hide_border=true&title_color=38B2AC&text_color=A6A6A6&bg_color=0D1117" alt="Top Languages" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=vishwaksen21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="195" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=vishwaksen21&hide_border=true&background=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" height="195" alt="GitHub Streak" />
 
-## 📊 Analytics & Coding Habits
+<br/><br/>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishwaksen21&theme=tokyonight" alt="Top Languages Donut" width="48%" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vishwaksen21&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="48%" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaksen21&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="450" alt="Top Languages" />
 
-<br/>
+<br/><br/>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishwaksen21&theme=tokyonight" alt="Profile Summary Dashboard" width="100%" />
-</div>
+## 📈 Contribution Activity
 
-<br/>
+<img src="https://ghchart.rshah.org/58A6FF/vishwaksen21" width="750" alt="Contribution Graph" />
 
-<div align="center">
-  <i>Let's connect and build something extraordinary.</i>
+<br/><br/>
+
+<i>Let's connect and build something extraordinary.</i>
+
 </div>
