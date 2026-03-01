@@ -47,19 +47,18 @@
 
 <br/>
 
-## 🏆 GitHub Achievements
+## 📈 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/vishwaksen21">
-    <img src="https://github-profile-trophy.vercel.app/?username=vishwaksen21&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishwaksen21&show_icons=true&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=A6A6A6&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=vishwaksen21&theme=dark&hide_border=true&title_color=38B2AC&text_color=A6A6A6&icon_color=38B2AC&sideNums=A6A6A6&sideLabels=A6A6A6&ring=38B2AC&fire=38B2AC&currStreakNum=A6A6A6&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br/>
 
----
-
-<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaksen21&layout=compact&hide_border=true&title_color=38B2AC&text_color=A6A6A6&bg_color=0D1117" alt="Top Languages" />
+</div>
 
 ## 📊 Analytics & Coding Habits
 
