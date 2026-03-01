@@ -1,5 +1,5 @@
 # 💫 About Me
-- CS & Data Science student at CMR Institute of Technology (CGPA 9.13)  
+- CS & Data Science student at CMR Institute of Technology (CGPA 9.06)  
 - SDE Intern experience at ISRO and QUABYT  
 - Web dev Intern @ Sohum Trust 
 - Technical Lead at CCA, CMRIT
