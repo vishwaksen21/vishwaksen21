@@ -62,8 +62,10 @@
 
 <br/>
 
+## 📊 Contribution Activity
+
 <div align="center">
-  <img src="https://ghchart.rshah.org/38B2AC/vishwaksen21" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwaksen21&bg_color=0D1117&color=A6A6A6&line=38B2AC&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 <br/>
