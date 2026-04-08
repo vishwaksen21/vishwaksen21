@@ -53,7 +53,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishwaksen21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="195" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=vishwaksen21&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="195" alt="GitHub Stats" />
 <img src="https://streak-stats.demolab.com?user=vishwaksen21&hide_border=true&background=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" height="195" alt="GitHub Streak" />
 
 <br/><br/>
