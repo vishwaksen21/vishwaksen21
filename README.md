@@ -58,7 +58,7 @@
 
 <br/><br/>
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vishwaksen21&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaksen21&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 
 <br/><br/>
 
