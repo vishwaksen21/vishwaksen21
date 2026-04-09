@@ -15,7 +15,7 @@
   
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/Profile%20Views-14000-252525?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=vishwaksen21&label=Profile%20Views&color=252525&style=flat-square" alt="Profile Views" />,
 
 </div>
 
