@@ -62,7 +62,7 @@
 
 <br/><br/>
 
-## 📈 Contribution Activity
+## 📈 Contribution Activities
 
 <img src="https://ghchart.rshah.org/58A6FF/vishwaksen21" width="750" alt="Contribution Graph" />
 
