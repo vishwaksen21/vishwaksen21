@@ -86,21 +86,6 @@ Real-time AI-powered sign language translation system converting speech and text
 **Repository:**  
 <a href="https://github.com/vishwaksen21/signaction">github.com/vishwaksen21/signaction</a>
 
----
-
-### Project Kisan
-
-AI-powered assistant helping farmers with crop disease detection, market intelligence, and government scheme guidance.
-
-**Focus Areas:** Agriculture • AI • Voice Interfaces • Analytics
-
----
-
-### Project Drishti
-
-AI-powered situational awareness platform for public event safety with predictive analytics and intelligent resource management.
-
-**Focus Areas:** AI • Computer Vision • Analytics • Public Safety
 
 ---
 
@@ -130,12 +115,10 @@ AI-powered situational awareness platform for public event safety with predictiv
 
 - Winner — Full Stack Odyssey Hackathon
 - Winner — Mind-Speak: Battle of Perspectives
-- IIT Bombay Techfest College Ambassador
 - Technical Lead — Centre for Cognitive Activities
 - Event Management Head — Innovation Club
 - 33+ GitHub Repositories
 - 880+ GitHub Contributions
-- Software Intern — ISRO SDSC SHAR
 
 ---
 
@@ -176,11 +159,6 @@ Learning:
   - System Design
   - MLOps
   - Distributed Systems
-
-Building:
-  - Avelyn
-  - Project Kisan
-  - Project Drishti
 
 Exploring:
   - Agentic AI
