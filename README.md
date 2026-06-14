@@ -1,199 +1,181 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:1E3A8A,100:06B6D4&text=C%20Vishwak%20Sena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Vishwak%20Sen&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=850&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;Machine+Learning+Practitioner;Building+Scalable+AI+Products"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=80&lines=Hi+there,+I'm+Vishwak+Sen;Computer+Science+%26+Data+Science;Building+AI-Powered+Solutions;Technical+Lead+%40+CCA,+CMRIT;Software+Engineering+%7C+AI+%7C+Product+Development" alt="Typing SVG" />
 
+<p align="center">
+<strong>Bridging the gap between AI, scalable software systems, and real-world products.</strong>
 <br/>
+Software Intern @ <b>ISRO</b> & <b>QUABYT</b> | Technical Lead @ <b>CCA</b> | CGPA: <b>9.06</b>
+</p>
 
-<a href="https://vishwaksen.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vishwaksen21/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:chilukurvishwak21@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/vishwaksen21">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://vishwaksen.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/vishwaksen21"><img src="https://img.shields.io/badge/LinkedIn-252525?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/></a>
+<a href="https://instagram.com/vishwak_sen21"><img src="https://img.shields.io/badge/Instagram-252525?style=for-the-badge&logo=Instagram&logoColor=E4405F" alt="Instagram"/></a>
+<a href="mailto:chilukurvishwak21@gmail.com"><img src="https://img.shields.io/badge/Email-252525?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=vishwaksen21&style=for-the-badge&color=0891B2"/>
+<img src="https://komarev.com/ghpvc/?username=vishwaksen21&label=Profile%20Views&color=252525&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/vishwaksen21?style=flat-square&color=252525" />
+<img src="https://img.shields.io/github/stars/vishwaksen21?affiliations=OWNER&style=flat-square&color=252525" />
 
 </div>
 
 ---
 
-# About Me
+## About Me
 
-Computer Science (Data Science) student at CMR Institute of Technology with a strong interest in software engineering, artificial intelligence, machine learning, and product development.
+Computer Science (Data Science) student at **CMR Institute of Technology, Bengaluru** with a strong interest in **Software Engineering, Artificial Intelligence, Machine Learning, and Product Development**.
 
-I enjoy building scalable applications, integrating modern AI systems, and creating solutions that solve real-world problems. My focus is on combining strong engineering fundamentals with practical product thinking to build impactful technology.
+I enjoy building intelligent systems, scalable web applications, and AI-powered products that solve real-world problems. My focus lies in combining strong engineering principles with practical product thinking.
 
-### Current Interests
-
-- Artificial Intelligence
-- Machine Learning
+- Artificial Intelligence & Machine Learning
 - Full Stack Development
 - Software Engineering
-- Open Source
+- Data Science & Analytics
+- Open Source Development
 - Product Engineering
 
 ---
 
-# Tech Stack
+<div align="center">
 
-### Languages
+## Arsenal & Technologies
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,typescript"/>
-</p>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=c,java,scala,python,ts,js&perline=6" alt="Languages" />
+</a>
 
-### Frontend
+<br/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
-</p>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,fastapi,flask,firebase,mysql,mongodb&perline=9" alt="Web & DB" />
+</a>
 
-### Backend & Databases
+<br/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,mysql,mongodb,firebase"/>
-</p>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,vscode&perline=6" alt="Cloud & Tools" />
+</a>
 
-### Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,vercel"/>
-</p>
+</div>
 
 ---
 
-# Featured Projects
+## Featured Projects
 
-## Avelyn
+### Avelyn
 
 AI-powered desktop text enhancement platform supporting multiple LLM providers with seamless cross-application text replacement.
 
-**Tech Stack:** Python, Ollama, OpenAI, Gemini, PyInstaller
+**Stack:** Python • Ollama • OpenAI • Gemini • PyInstaller
 
 **Repository:**  
-https://github.com/vishwaksen21/Avelyn
+<a href="https://github.com/vishwaksen21/Avelyn">github.com/vishwaksen21/Avelyn</a>
 
 ---
 
-## SignAction
+### SignAction
 
-Real-time AI-powered sign language translation system that converts speech and text into animated sign language output.
+Real-time AI-powered sign language translation system converting speech and text into animated sign language gestures.
 
-**Tech Stack:** Python, FastAPI, React, Next.js, NumPy
+**Stack:** Python • FastAPI • Next.js • React • NumPy
 
 **Repository:**  
-https://github.com/vishwaksen21/signaction
+<a href="https://github.com/vishwaksen21/signaction">github.com/vishwaksen21/signaction</a>
 
 ---
 
-## Project Kisan
+### Project Kisan
 
-AI-powered agricultural assistant designed to help farmers with crop disease detection, market analysis, and government scheme guidance.
+AI-powered assistant helping farmers with crop disease detection, market intelligence, and government scheme guidance.
 
-**Tech Stack:** AI, Machine Learning, Cloud Technologies
+**Focus Areas:** Agriculture • AI • Voice Interfaces • Analytics
 
 ---
 
-## Project Drishti
+### Project Drishti
 
 AI-powered situational awareness platform for public event safety with predictive analytics and intelligent resource management.
 
-**Tech Stack:** AI, Computer Vision, Analytics
+**Focus Areas:** AI • Computer Vision • Analytics • Public Safety
 
 ---
 
-# Experience
+## Experience
 
-## Software Development Intern
-### Quabyt Technologies LLP
+### Software Development Intern — Quabyt Technologies LLP
 
 **Sep 2025 – Dec 2025**
 
-- Contributed to AI-powered software products
+- Contributed to AI-powered web applications
 - Developed frontend and backend features
 - Improved application performance and reliability
-- Assisted in deployment and testing workflows
+- Participated in testing and deployment workflows
 
-**Skills:** Python, AI Engineering, Full Stack Development
-
----
-
-## Software Intern
-### ISRO – SDSC SHAR
+### Software Intern — ISRO SDSC SHAR
 
 **Aug 2024 – Nov 2024**
 
 - Processed large-scale meteorological datasets
-- Automated data cleaning and validation workflows
-- Performed data preprocessing and feature preparation
-- Supported scientific data analysis activities
-
-**Skills:** Python, Pandas, Data Analytics
+- Automated data validation workflows
+- Performed preprocessing and feature preparation
+- Supported scientific data analysis
 
 ---
 
-# Achievements
+## Achievements
 
-| Achievement | Details |
-|------------|---------|
-| Hackathon Winner | Full Stack Odyssey Hackathon |
-| Technical Leadership | Technical Lead, Centre for Cognitive Activities |
-| Ambassador | IIT Bombay Techfest 2025–26 |
-| Open Source | 33+ GitHub Repositories |
-| Contributions | 880+ GitHub Contributions |
-| Internship | Software Intern at ISRO SDSC SHAR |
+- Winner — Full Stack Odyssey Hackathon
+- Winner — Mind-Speak: Battle of Perspectives
+- IIT Bombay Techfest College Ambassador
+- Technical Lead — Centre for Cognitive Activities
+- Event Management Head — Innovation Club
+- 33+ GitHub Repositories
+- 880+ GitHub Contributions
+- Software Intern — ISRO SDSC SHAR
 
 ---
 
-# GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vishwaksen21&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vishwaksen21&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwaksen21&theme=transparent&hide_border=true"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwaksen21&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaksen21&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Activity
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwaksen21&bg_color=0f172a&color=38bdf8&line=06b6d4&point=ffffff&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaksen21&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# Current Focus
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwaksen21&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&hide_border=true"/>
+
+</div>
+
+---
+
+## Current Focus
 
 ```yaml
 Learning:
   - System Design
   - MLOps
   - Distributed Systems
-  - Cloud Architecture
 
 Building:
   - Avelyn
@@ -204,45 +186,21 @@ Exploring:
   - Agentic AI
   - Local LLMs
   - AI Automation
-  - Edge AI
 
 Open To:
   - Software Engineering Internships
   - AI/ML Engineering Roles
   - Open Source Collaboration
-  - Research Opportunities
 ```
 
 ---
 
-# Connect
-
 <div align="center">
 
-<a href="mailto:chilukurvishwak21@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<i>Let's connect and build something extraordinary.</i>
 
-<a href="https://www.linkedin.com/in/vishwaksen21/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/><br/>
 
-<a href="https://github.com/vishwaksen21">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://vishwaksen.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-Building intelligent systems that transform ideas into impactful products.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0F172A,50:1E3A8A,100:06B6D4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0D1117,50:1F6FEB,100:58A6FF"/>
 
 </div>
