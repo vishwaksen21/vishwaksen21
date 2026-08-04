@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:3DA9FC,100:2CB67D&text=C%20Vishwak%20Sena&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3DA9FC&center=true&vCenter=true&width=650&height=55&lines=Data+Analyst+%7C+Software+Engineer;Turning+Data+into+Decisions%2C+Code+into+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3DA9FC&center=true&vCenter=true&width=650&height=55&lines=Data+Analyst+%7C+Software+Engineer;TTurning+Data+into+Decisions%2C+Code+into+Products" alt="Typing SVG" />
 
 <a href="https://vishwaksen.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-3DA9FC?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/vishwaksen21/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -14,9 +14,9 @@
 
 <br/>
 
-CS (Data Science) student @ **CMRIT, Bengaluru** · CGPA **9.06** — I turn raw data into insight and ideas into shipped software.
+CS (Data Science) student @ **CMRIT, Bengaluru** · CGPA **9.07** — I turn raw data into insight and ideas into shipped software.
 
-**Core CS:** DSA · OOP · DBMS · Operating Systems
+**Core CS:** DSA · OOPS · DBMS · Operating Systems
 
 <div align="center">
 
