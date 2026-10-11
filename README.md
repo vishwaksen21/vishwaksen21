@@ -3,23 +3,23 @@
 <!-- Prudential Red Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:ED1B2D,100:B3101E&text=C%20Vishwak%20Sena&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
 
-<!-- Animated Typing Subtitle - AI Engineer Only -->
+<!-- Animated Typing Subtitle - AI Engineer -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=1000&color=ED1B2D&center=true&vCenter=true&width=680&height=50&lines=AI+Engineer;Building+Autonomous+Agents+%26+Generative+AI+Systems;Specialized+in+LLMs%2C+Agentic+Workflows+%26+Model+Deployment" alt="Typing SVG" />
 
 <br/>
 
-<!-- Prudential Red Connect Badges -->
+<!-- Connect Badges - Official Brand Colors -->
 <a href="https://vishwaksen.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ED1B2D?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/vishwaksen21"><img src="https://img.shields.io/badge/LinkedIn-ED1B2D?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/vishwaksen21/"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ED1B2D"/></a>
-<a href="https://leetcode.com/u/vishwak_sen21/"><img src="https://img.shields.io/badge/LeetCode-ED1B2D?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="mailto:chilukurvishwak21@gmail.com"><img src="https://img.shields.io/badge/Email-ED1B2D?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/vishwaksen21"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/vishwaksen21/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/vishwak_sen21/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="mailto:chilukurvishwak21@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
 <br/>
 
-### 🔴 About Me
+### About Me
 
 ```yaml
 Name: C Vishwak Sena
@@ -32,44 +32,32 @@ Mission: Engineering Intelligent Systems from Core Algorithms to Production Infr
 
 ---
 
-### ⚡ AI Engineering Stack
+### Technical Stack
 
 <div align="center">
 
-#### `Core AI & Deep Learning Frameworks`
+#### `Core AI, Frameworks & Infrastructure`
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-ED1B2D?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-ED1B2D?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-ED1B2D?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-ED1B2D?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-ED1B2D?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,git,githubactions,postgres,mongodb,vscode&theme=dark"/>
 </p>
 
-#### `Generative AI, LLMs & Agentic Systems`
+#### `Generative AI, LLMs & Foundation Models`
 <p align="center">
-  <img src="https://img.shields.io/badge/Ollama%20%26%20Local%20LLMs-ED1B2D?style=flat-square&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI%20API-ED1B2D?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini%20API-ED1B2D?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Llama%20%26%20Gemma-ED1B2D?style=flat-square&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agentic%20Workflows-ED1B2D?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP%20%26%20Embeddings-ED1B2D?style=flat-square&logo=python&logoColor=white"/>
-</p>
-
-#### `AI Infrastructure, Deployment & Tooling`
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-ED1B2D?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-ED1B2D?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-ED1B2D?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyInstaller-ED1B2D?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apple%20Silicon%20Acceleration-ED1B2D?style=flat-square&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git%20%26%20CI%2FCD-ED1B2D?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI%20API-10A37F?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Meta%20Llama-0468D7?style=flat-square&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 </p>
 
 </div>
 
 ---
 
-### 💼 Experience
+### Experience
 
 - **Prudential Health India** — **AI Engineer Intern** *(July 2026 – Present)*
   - Spearheading an AI-driven marketing platform automating campaign creative and multimedia generation using Generative AI.
@@ -81,27 +69,27 @@ Mission: Engineering Intelligent Systems from Core Algorithms to Production Infr
 
 ---
 
-### 🧠 Featured AI Projects
+### Featured Projects
 
 | Project | AI Architecture & Engineering | Stack | Links |
 | :--- | :--- | :--- | :---: |
 | **Avelyn** | AI desktop text-enhancement engine with cross-app clipboard capture, local LLM orchestration (Ollama), and Apple Silicon memory optimizations. | `Python` `Ollama` `OpenAI API` `Gemini API` `PyInstaller` | [Demo](https://avelyn.software/) · [Code](https://github.com/vishwaksen21/Avelyn) |
-| **SignAction** | Real-time speech & text to sign language gestures powered by an NLP preprocessing pipeline and a 3-tier fallback architecture (assets $\to$ AI animations $\to$ fingerspelling). | `Python` `FastAPI` `Next.js` `React` `NLP` `NumPy` | [Demo](https://signaction.vercel.app/) · [Code](https://github.com/vishwaksen21/signaction) |
+| **SignAction** | Real-time speech & text to sign language gestures powered by an NLP preprocessing pipeline and a 3-tier fallback architecture (assets to AI animations to fingerspelling). | `Python` `FastAPI` `Next.js` `React` `NLP` `NumPy` | [Demo](https://signaction.vercel.app/) · [Code](https://github.com/vishwaksen21/signaction) |
 | **Cure-Blend** | AI-driven healthcare diagnostic engine trained on 8,000+ medical records (**86% accuracy**), predicting 43 diseases with dual herbal & pharmaceutical recommendation logic. | `Python` `scikit-learn` `TF-IDF` `NLP` `Streamlit` | [Code](https://github.com/vishwaksen21/Cure-Blend) |
 
 ---
 
-### 🏆 Honors & AI Leadership
+### Honors & Leadership
 
-- 🏆 **Winner** — Full-Stack Odyssey Hackathon, CMRIT (2025)
-- 🏆 **Winner** — Mind-Speak GD (Group Discussion), CMRIT Placement Department
-- 🌟 **Ambassador** — Google Student Ambassador Program (Gemini, 2025)
-- 🎯 **Leadership** — Student Placement Coordinator · Technical Lead @ Centre for Cognitive Activities (CCA) · Event Head @ Innovation Club (*Organized The Social Hackathon’26 with 1000+ teams*)
-- 📜 **Certifications** — IBM (*Python for Data Science, AI & Dev*) · Oracle Cloud Infrastructure (*AI Foundations Associate*)
+- **Winner** — Full-Stack Odyssey Hackathon, CMRIT (2025)
+- **Winner** — Mind-Speak GD (Group Discussion), CMRIT Placement Department
+- **Ambassador** — Google Student Ambassador Program (Gemini, 2025)
+- **Leadership** — Student Placement Coordinator · Technical Lead @ Centre for Cognitive Activities (CCA) · Event Head @ Innovation Club (*Organized The Social Hackathon’26 with 1000+ teams*)
+- **Certifications** — IBM (*Python for Data Science, AI & Dev*) · Oracle Cloud Infrastructure (*AI Foundations Associate*)
 
 ---
 
-### 🎖️ GitHub Achievements
+### GitHub Achievements
 
 <div align="center">
 
@@ -123,7 +111,7 @@ Mission: Engineering Intelligent Systems from Core Algorithms to Production Infr
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### Activity & Statistics
 
 <div align="center">
 
@@ -140,7 +128,7 @@ Mission: Engineering Intelligent Systems from Core Algorithms to Production Infr
 
 <div align="center">
 
-**Open to AI Engineering, Generative AI & Autonomous Agent opportunities — let's build the future of AI together.**
+**Open to AI Engineering, Generative AI & Autonomous Agent opportunities.**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:B3101E,50:ED1B2D,100:0D1117"/>
 
