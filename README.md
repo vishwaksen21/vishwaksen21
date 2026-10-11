@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:ED1B2D,100:B3101E&text=C%20Vishwak%20Sena&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
 
 <!-- Animated Typing Subtitle - AI Engineer -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=1000&color=ED1B2D&center=true&vCenter=true&width=680&height=50&lines=AI+Engineer;Building+Autonomous+Agents+%26+Generative+AI+Systems;Specialized+in+LLMs%2C+Agentic+Workflows+%26+Model+Deployment" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=ED1B2D&center=true&vCenter=true&width=800&height=50&lines=AI+Engineer;Autonomous+Agents+%26+Generative+AI+Systems;LLMs%2C+Agentic+Workflows+%26+Model+Deployment" alt="Typing SVG" />
 
 <br/>
 
@@ -120,7 +120,7 @@ Mission: Engineering Intelligent Systems from Core Algorithms to Production Infr
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwaksen21&hide_border=false&background=0D1117&border=ED1B2D&stroke=ED1B2D&ring=ED1B2D&fire=ED1B2D&currStreakLabel=ED1B2D&sideLabels=FFFFFF&dates=FFFFFF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwaksen21&hide_border=false&background=0D1117&border=ED1B2D&stroke=ED1B2D&ring=ED1B2D&fire=ED1B2D&currStreakLabel=ED1B2D&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E"/>
 
 </div>
 
