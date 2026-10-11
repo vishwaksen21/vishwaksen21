@@ -59,58 +59,33 @@ Mission: Engineering Intelligent Systems from Core Algorithms to Production Infr
 
 ### Experience
 
-> #### **Prudential Health India** &nbsp;·&nbsp; `AI Engineer Intern`
-> <img src="https://img.shields.io/badge/Tenure-July%202026%20--%20Present-ED1B2D?style=flat-square" /> &nbsp; <img src="https://img.shields.io/badge/Domain-Generative%20AI%20%7C%20Automated%20Media-181717?style=flat-square" />
->
-> - **Generative AI Marketing Engine:** Spearheading an AI-driven marketing platform automating campaign creative and multimedia generation using Generative AI.
-> - **Production Infrastructure:** Designing high-throughput model inference pipelines, cloud storage integrations, and optimized video/media processing workflows.
+- **Prudential Health India** — **AI Engineer Intern** *(July 2026 – Present)*
+  - Spearheading an AI-driven marketing platform automating campaign creative and multimedia generation using Generative AI.
+  - Designing high-throughput model inference pipelines, cloud storage integrations, and optimized video/media processing workflows.
 
-<br/>
-
-> #### **ISRO - SDSC SHAR** &nbsp;·&nbsp; `Software Intern`
-> <img src="https://img.shields.io/badge/Tenure-Aug%202025%20--%20Nov%202025-181717?style=flat-square" /> &nbsp; <img src="https://img.shields.io/badge/Domain-Large--Scale%20Data%20Engineering-181717?style=flat-square" />
->
-> - **Meteorological Data Pipelines:** Engineered automated data pipelines and validation workflows for large-scale meteorological datasets with Python and Pandas.
-> - **ETL & Analytical Preprocessing:** Preprocessed multi-dimensional datasets for downstream analytical and predictive modeling tasks.
+- **ISRO - SDSC SHAR** — **Software Intern** *(Aug 2025 – Nov 2025)*
+  - Engineered automated data pipelines and validation workflows for large-scale meteorological datasets with Python and Pandas.
+  - Preprocessed multi-dimensional datasets for downstream analytical and predictive modeling tasks.
 
 ---
 
 ### Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/vishwaksen21/Avelyn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwaksen21&repo=Avelyn&theme=tokyonight&border_color=ED1B2D&title_color=ED1B2D&bg_color=0D1117" /></a>
-&nbsp;&nbsp;
-<a href="https://github.com/vishwaksen21/signaction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwaksen21&repo=signaction&theme=tokyonight&border_color=ED1B2D&title_color=ED1B2D&bg_color=0D1117" /></a>
-
-<br/><br/>
-
-<a href="https://github.com/vishwaksen21/Cure-Blend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwaksen21&repo=Cure-Blend&theme=tokyonight&border_color=ED1B2D&title_color=ED1B2D&bg_color=0D1117" /></a>
-
-</div>
-
-<br/>
-
-| Project | Architecture & Impact | Tech Stack | Links |
+| Project | AI Architecture & Engineering | Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **Avelyn** | AI desktop text enhancement engine with cross-app clipboard capture, local LLM orchestration (Ollama), and Apple Silicon memory optimizations. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/><br/><img src="https://img.shields.io/badge/OpenAI-10A37F?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=google&logoColor=white"/> | <a href="https://avelyn.software/"><img src="https://img.shields.io/badge/Live%20Demo-ED1B2D?style=flat-square&logo=googlechrome&logoColor=white"/></a><br/><a href="https://github.com/vishwaksen21/Avelyn"><img src="https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white"/></a> |
-| **SignAction** | Real-time speech & text to animated sign language gestures powered by an NLP preprocessing pipeline and a 3-tier fallback architecture (assets to AI animations to fingerspelling). | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/><br/><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> | <a href="https://signaction.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-ED1B2D?style=flat-square&logo=googlechrome&logoColor=white"/></a><br/><a href="https://github.com/vishwaksen21/signaction"><img src="https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white"/></a> |
-| **Cure-Blend** | AI-driven healthcare diagnostic engine trained on 8,000+ medical records (**86% accuracy**), predicting 43 diseases with dual herbal & pharmaceutical recommendation logic. | <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/TF--IDF-150458?style=flat-square"/><br/><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> | <a href="https://github.com/vishwaksen21/Cure-Blend"><img src="https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white"/></a> |
+| **Avelyn** | AI desktop text-enhancement engine with cross-app clipboard capture, local LLM orchestration (Ollama), and Apple Silicon memory optimizations. | `Python` `Ollama` `OpenAI API` `Gemini API` `PyInstaller` | [Demo](https://avelyn.software/) · [Code](https://github.com/vishwaksen21/Avelyn) |
+| **SignAction** | Real-time speech & text to sign language gestures powered by an NLP preprocessing pipeline and a 3-tier fallback architecture (assets to AI animations to fingerspelling). | `Python` `FastAPI` `Next.js` `React` `NLP` `NumPy` | [Demo](https://signaction.vercel.app/) · [Code](https://github.com/vishwaksen21/signaction) |
+| **Cure-Blend** | AI-driven healthcare diagnostic engine trained on 8,000+ medical records (**86% accuracy**), predicting 43 diseases with dual herbal & pharmaceutical recommendation logic. | `Python` `scikit-learn` `TF-IDF` `NLP` `Streamlit` | [Code](https://github.com/vishwaksen21/Cure-Blend) |
 
 ---
 
 ### Honors & Leadership
 
-| Distinction | Event / Organization | Recognition |
-| :--- | :--- | :---: |
-| <img src="https://img.shields.io/badge/WINNER-ED1B2D?style=flat-square" /> | Full-Stack Odyssey Hackathon, CMRIT | **1st Place (2025)** |
-| <img src="https://img.shields.io/badge/WINNER-ED1B2D?style=flat-square" /> | Mind-Speak GD (Group Discussion), CMRIT Placement Dept | **1st Place (2025)** |
-| <img src="https://img.shields.io/badge/GOOGLE-4285F4?style=flat-square&logo=google&logoColor=white" /> | Google Student Ambassador Program (Gemini) | **Campus Lead (2025)** |
-| <img src="https://img.shields.io/badge/LEADERSHIP-181717?style=flat-square" /> | Student Placement Coordinator, Department Placement Cell | **Active** |
-| <img src="https://img.shields.io/badge/LEADERSHIP-181717?style=flat-square" /> | Technical Lead, Centre for Cognitive Activities (CCA) | **Active** |
-| <img src="https://img.shields.io/badge/MANAGEMENT-181717?style=flat-square" /> | Event Head, Innovation Club *(Organized The Social Hackathon’26 with 1000+ teams)* | **2026** |
-| <img src="https://img.shields.io/badge/CERTIFIED-052FAD?style=flat-square&logo=ibm&logoColor=white" /> | IBM: Python for Data Science, AI & Development | **Professional Cert** |
-| <img src="https://img.shields.io/badge/CERTIFIED-F80000?style=flat-square&logo=oracle&logoColor=white" /> | Oracle Cloud: OCI 2025 AI Foundations Associate | **Associate Cert** |
+- **Winner** — Full-Stack Odyssey Hackathon, CMRIT (2025)
+- **Winner** — Mind-Speak GD (Group Discussion), CMRIT Placement Department
+- **Ambassador** — Google Student Ambassador Program (Gemini, 2025)
+- **Leadership** — Student Placement Coordinator · Technical Lead @ Centre for Cognitive Activities (CCA) · Event Head @ Innovation Club (*Organized The Social Hackathon’26 with 1000+ teams*)
+- **Certifications** — IBM (*Python for Data Science, AI & Dev*) · Oracle Cloud Infrastructure (*AI Foundations Associate*)
 
 ---
 
