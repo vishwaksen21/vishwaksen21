@@ -59,33 +59,32 @@ Mission: Engineering Intelligent Systems from Core Algorithms to Production Infr
 
 ### Experience
 
-- **Prudential Health India** — **AI Engineer Intern** *(July 2026 – Present)*
-  - Spearheading an AI-driven marketing platform automating campaign creative and multimedia generation using Generative AI.
-  - Designing high-throughput model inference pipelines, cloud storage integrations, and optimized video/media processing workflows.
+- **[Prudential Health India](https://www.prudential.com/)** · **AI Engineer Intern** *(July 2026 – Present)*  
+  Spearheading an AI-driven marketing platform automating campaign creative and multimedia generation using Generative AI; designing high-throughput model inference pipelines and cloud storage media workflows.
 
-- **ISRO - SDSC SHAR** — **Software Intern** *(Aug 2025 – Nov 2025)*
-  - Engineered automated data pipelines and validation workflows for large-scale meteorological datasets with Python and Pandas.
-  - Preprocessed multi-dimensional datasets for downstream analytical and predictive modeling tasks.
+- **[ISRO - SDSC SHAR](https://www.isro.gov.in/)** · **Software Intern** *(Aug 2025 – Nov 2025)*  
+  Engineered automated meteorological data pipelines, validation routines, and ETL workflows with Python & Pandas for downstream predictive modeling.
 
 ---
 
 ### Featured Projects
 
-| Project | AI Architecture & Engineering | Stack | Links |
-| :--- | :--- | :--- | :---: |
-| **Avelyn** | AI desktop text-enhancement engine with cross-app clipboard capture, local LLM orchestration (Ollama), and Apple Silicon memory optimizations. | `Python` `Ollama` `OpenAI API` `Gemini API` `PyInstaller` | [Demo](https://avelyn.software/) · [Code](https://github.com/vishwaksen21/Avelyn) |
-| **SignAction** | Real-time speech & text to sign language gestures powered by an NLP preprocessing pipeline and a 3-tier fallback architecture (assets to AI animations to fingerspelling). | `Python` `FastAPI` `Next.js` `React` `NLP` `NumPy` | [Demo](https://signaction.vercel.app/) · [Code](https://github.com/vishwaksen21/signaction) |
-| **Cure-Blend** | AI-driven healthcare diagnostic engine trained on 8,000+ medical records (**86% accuracy**), predicting 43 diseases with dual herbal & pharmaceutical recommendation logic. | `Python` `scikit-learn` `TF-IDF` `NLP` `Streamlit` | [Code](https://github.com/vishwaksen21/Cure-Blend) |
+| Project | AI Architecture & Engineering |
+| :--- | :--- |
+| **[Avelyn](https://avelyn.software/)** · [Code](https://github.com/vishwaksen21/Avelyn) | Desktop AI text-enhancement engine with cross-app clipboard capture, local LLM orchestration (Ollama), and Apple Silicon memory optimizations · `Python` `Ollama` `OpenAI` `Gemini` |
+| **[SignAction](https://signaction.vercel.app/)** · [Code](https://github.com/vishwaksen21/signaction) | Real-time speech & text to animated sign language gestures powered by an NLP preprocessing pipeline and a 3-tier fallback architecture · `FastAPI` `Next.js` `React` `NLP` |
+| **[Cure-Blend](https://github.com/vishwaksen21/Cure-Blend)** | AI-driven healthcare diagnostic engine trained on 8,000+ medical records (**86% accuracy**), predicting 43 diseases with dual herbal & pharmaceutical recommendation logic · `scikit-learn` `TF-IDF` `Streamlit` |
 
 ---
 
 ### Honors & Leadership
 
-- **Winner** — Full-Stack Odyssey Hackathon, CMRIT (2025)
-- **Winner** — Mind-Speak GD (Group Discussion), CMRIT Placement Department
-- **Ambassador** — Google Student Ambassador Program (Gemini, 2025)
-- **Leadership** — Student Placement Coordinator · Technical Lead @ Centre for Cognitive Activities (CCA) · Event Head @ Innovation Club (*Organized The Social Hackathon’26 with 1000+ teams*)
-- **Certifications** — IBM (*Python for Data Science, AI & Dev*) · Oracle Cloud Infrastructure (*AI Foundations Associate*)
+| Competitions & Recognition | Leadership & Certifications |
+| :--- | :--- |
+| **Winner** — Full-Stack Odyssey Hackathon (2025) | **Student Placement Coordinator** — Department Placement Cell |
+| **Winner** — Mind-Speak Group Discussion (2025) | **Technical Lead** — Centre for Cognitive Activities (CCA) |
+| **Google Student Ambassador** — Gemini Campus Lead (2025) | **Event Head** — Innovation Club *(The Social Hackathon '26)* |
+| **IBM Certified** — Python for Data Science, AI & Dev | **Oracle Cloud Certified** — OCI AI Foundations Associate |
 
 ---
 
